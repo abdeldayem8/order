@@ -28,12 +28,12 @@ body{
     right: 0;
     bottom: 0;
     z-index: -1;
-    height: 100vh;
+    height: 500px;
 }
 @media(min-width:768px){
     .bg-im{
         background: url(../images/pattern-background-desktop.svg) no-repeat center/cover;
-        height: 100vh;
+        height: 400px;
     }
 }
 .card{
